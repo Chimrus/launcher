@@ -5,7 +5,7 @@ A launcher and mod manager for Crusader Kings III (Windows, Steam version of the
 
 ## Скачать
 
-**Последняя версия — 0.1.9:** [ck3launcher-0.1.9-win64.zip](https://github.com/Chimrus/launcher/releases/download/v0.1.9/ck3launcher-0.1.9-win64.zip) (50 МБ)
+**Последняя версия — 0.1.10:** [ck3launcher-0.1.10-win64.zip](https://github.com/Chimrus/launcher/releases/download/v0.1.10/ck3launcher-0.1.10-win64.zip) (50 МБ)
 
 1. Распакуйте архив в любую свою папку (не в `Program Files`).
 2. Откройте папку `ck3launcher` и запустите `ck3launcher.exe`.
@@ -13,11 +13,11 @@ A launcher and mod manager for Crusader Kings III (Windows, Steam version of the
 
 Дальше лаунчер обновляется сам.
 
-Все версии — [Releases](https://github.com/Chimrus/launcher/releases). SHA-256 архива: `f479fc3c22d8974c8cb745424cd77193aedef13ca155485982060676620b7264`
+Все версии — [Releases](https://github.com/Chimrus/launcher/releases). SHA-256 архива: `c0cd4544f784b861a111d54ad7eefc9e53057fee518ffd21f658f5482cb02ce3`
 
 ## Download
 
-**Latest version — 0.1.9:** [ck3launcher-0.1.9-win64.zip](https://github.com/Chimrus/launcher/releases/download/v0.1.9/ck3launcher-0.1.9-win64.zip) (50 MB)
+**Latest version — 0.1.10:** [ck3launcher-0.1.10-win64.zip](https://github.com/Chimrus/launcher/releases/download/v0.1.10/ck3launcher-0.1.10-win64.zip) (50 MB)
 
 1. Unzip the archive into any folder of your own (not `Program Files`).
 2. Open the `ck3launcher` folder and run `ck3launcher.exe`.
@@ -25,4 +25,4 @@ A launcher and mod manager for Crusader Kings III (Windows, Steam version of the
 
 After that the launcher updates itself.
 
-All versions: [Releases](https://github.com/Chimrus/launcher/releases). SHA-256 of the archive: `f479fc3c22d8974c8cb745424cd77193aedef13ca155485982060676620b7264`
+All versions: [Releases](https://github.com/Chimrus/launcher/releases). SHA-256 of the archive: `c0cd4544f784b861a111d54ad7eefc9e53057fee518ffd21f658f5482cb02ce3`
